@@ -16,6 +16,6 @@ Cała gotowa strona znajduje się w `dist/`. Nie wymaga instalowania zależnośc
 - **Netlify:** konfiguracja w `netlify.toml`; wystarczy podłączyć repozytorium.
 - **Cloudflare Pages:** framework None, komenda budowania pusta, katalog wyjściowy `dist`.
 - **Vercel:** framework Other, katalog wyjściowy `dist`, bez komendy budowania.
-- **GitHub Pages:** workflow `.github/workflows/pages.yml`; w ustawieniach Pages wybierz GitHub Actions, a następnie uruchom workflow ręcznie.
+- **GitHub Pages:** automatyczne wdrożenie po każdym pushu do `main` przez `.github/workflows/pages.yml`. Hosting jest skonfigurowany: https://mateuszzablocki.github.io/klaudia-co-jemy/.
 
 Fonty pobierane są z Google Fonts; w trybie offline używany jest font systemowy. Dane decyzji pozostają lokalnie w przeglądarce. Strona niczego nie zamawia ani nie wysyła wyboru do drugiej osoby.
