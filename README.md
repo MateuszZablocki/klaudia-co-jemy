@@ -2,7 +2,7 @@
 Zabawny wybór kolacji dla Klaudii z maltańczykiem w roli doradcy. Polska, responsywna strona bez frameworka i bez procesu budowania.
 
 ## Funkcje
-- 9 propozycji jedzenia i filtry kuchni.
+- 18 propozycji jedzenia i filtry kuchni.
 - Wybór ręczny albo losowanie w aktualnym filtrze.
 - Animowany, autorski maltańczyk SVG i wirtualne smaczki.
 - Potwierdzenie kolacji z konfetti; zapamiętanie decyzji na dany dzień w przeglądarce.
